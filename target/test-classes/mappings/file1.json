@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/get-hello-world"
+  },
+  "response": {
+    "status": 200,
+    "body": "Hello World!",
+    "headers": {
+      "Content-Type": "text/plain"
+    }
+  }
+}
